@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StartNG Basic Info</string>
+    <string name="full_name">Name: Adeniji Ifeoluwatobi</string>
+    <string name="username">Username: Adeniji_Tobi</string>
+    <string name="email">Email: adenijitobi94@gmail.com</string>
+    <string name="track">Track: Mobile</string>
+</resources>
